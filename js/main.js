@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    setInterval ('cursorAnimation()', 1000);
+    // setInterval ('cursorAnimation()', 1000);
     captionEl = $('#caption');
     /* Scroll hire me button to contact page */
     $('.hire-me').click(function() {
